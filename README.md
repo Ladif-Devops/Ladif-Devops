@@ -41,7 +41,7 @@ Welcome to my GitHub portfolio! I am a skilled IT professional with expertise in
 ---
 
 ### Microsoft
-- **Exam 740: Installation, Storage, and Compute with Windows Server 2016**  
+- **Installation, Storage, and Compute with Windows Server 2016**  
   *Issued by*: Microsoft  
   *Issued on*: July 28, 2018  
   *Verification Link*: [View Certificate]( https://www.credly.com/earner/earned/badge/2b8bee42-1f28-4a9e-9579-10bc41c1ed18)

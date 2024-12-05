@@ -1,104 +1,91 @@
-# Abdilatif 
+# 💻 Abdilatif’s Portfolio
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.youracclaim.com/users/latiif)
-[![Email](https://img.shields.io/badge/Email-ladiif11%40hotmail.com-red)](mailto:ladiif11@hotmail.com)
-
----
-
-## 📜 About Me  
-I am a certified IT professional with expertise in network administration, cloud infrastructure, virtualization, and enterprise IT solutions. My diverse skill set spans across designing, implementing, and managing secure and scalable IT environments.
+Welcome to my GitHub portfolio! I am a skilled IT professional with expertise in network administration, cloud solutions, and systems engineering. Below, you'll find a comprehensive list of my certifications, projects, and expertise.
 
 ---
 
-## 🎓 Certifications  
+## 🔧 Skills & Expertise
+- **Networking:** Cisco Routing & Switching, Network Security, Infrastructure Management
+- **Cloud:** AWS, Microsoft Azure, VMware
+- **Systems Administration:** Windows Server, Active Directory, Virtualization
+- **DevOps Tools:** Docker, Kubernetes, Jenkins, Terraform
 
-### CompTIA  
+---
+
+## 📜 Certifications & Verification Logs
+
+### CompTIA
 - **CompTIA A+ ce Certification**  
-  *Issued on*: January 26, 2016 |   
-  *Description*: Certified in IT support, device configuration, data recovery, and malware management.
+  *Issued by*: CompTIA  
+  *Issued on*: January 26, 2016 | 
+  *Verification Link*: [View Certificate](https://www.credly.com/badges/36dff6e4-e413-42ca-97f2-1fc7f100d798)
 
-### Cisco  
+---
+
+### Cisco
 - **Cisco Certified Network Associate (CCNA) Routing and Switching**  
-  *Issued on*: September 13, 2016 
-  *Description*: Expertise in network fundamentals, LAN/WAN technologies, and security.  
-
-- **Cisco Certified Network Associate Security (CCNA Security)**  
-  *Issued on*: December 22, 2018 
-  *Description*: Specialization in network security infrastructure and threat mitigation.
+  *Issued by*: Cisco  
+  *Issued on*: September 13, 2016 | 
+  *Verification Link*: [View Certificate](https://www.credly.com/badges/e16d84bb-8573-4772-9cfa-bac3fedd1057)
 
 - **Cisco Certified Network Professional (CCNP) Routing and Switching**  
+  *Issued by*: Cisco  
   *Issued on*: January 31, 2019 |
-  *Description*: Advanced network engineering skills for enterprise environments.
+  *Verification Link*: [View Certificate]( https://www.credly.com/badges/e16d84bb-8573-4772-9cfa-bac3fedd1057)
 
-- **Cisco Certified Specialist – Enterprise Core**  
-  *Issued on*: January 20, 2018 |
-  *Description*: Proficient in core enterprise network technologies and automation.
+- **Cisco Certified Specialist - Enterprise Core**  
+  *Issued by*: Cisco  
+  *Issued on*: January 20, 2018 | 
+  *Verification Link*: [View Certificate]( https://www.credly.com/badges/c8dab176-e67b-492e-a285-69165b285ff3)
 
-### Microsoft  
-- **MCSA: Windows Server 2016**  
-  *Issued on*: March 30, 2019  
-  *Description*: In-depth knowledge of Windows Server administration, Active Directory, and group policies.
+---
+
+### Microsoft
+- **Exam 740: Installation, Storage, and Compute with Windows Server 2016**  
+  *Issued by*: Microsoft  
+  *Issued on*: July 28, 2018  
+  *Verification Link*: [View Certificate]( https://www.credly.com/earner/earned/badge/2b8bee42-1f28-4a9e-9579-10bc41c1ed18)
 
 - **Microsoft Certified: Azure Administrator Associate**  
-  *Issued on*: June 29, 
-  *Description*: Skills in managing cloud services and optimizing infrastructure on Azure.
+  *Issued by*: Microsoft  
+  *Issued on*: June 29, 2019 | 
+  *Verification Link*: [View Certificate](https://www.credly.com/earner/earned/badge/44e11ab0-73a5-4f45-a942-2a1b0b9f5342)
 
-### VMware  
+---
+
+### VMware
 - **VMware Certified Professional – Data Center Virtualization (VCP-DCV) 2019**  
+  *Issued by*: VMware  
   *Issued on*: March 9, 2019  
-  *Description*: Expertise in managing vSphere 6.7 for scalable and secure cloud solutions.
+  *Verification Link*: [View Certificate]( https://www.credly.com/earner/earned/badge/e9a15c7e-8645-42a3-af02-3d61ab540dc0)
+
+- **VMware vSphere 6.5 Foundations**  
+  *Issued by*: VMware  
+  *Issued on*: February 21, 2019  
+  *Verification Link*: [View Certificate]( https://www.credly.com/earner/earned/badge/fe53faae-483a-4a57-90c5-40db097ce48a)
 
 ---
 
-## 🛠 Key Skills  
-- **Network Administration** (Cisco CCNA, CCNP)  
-- **Cloud Infrastructure** (Azure, VMware)  
-- **Security Implementation** (CCNA Security, Cisco Specialist)  
-- **Windows Server Administration** (MCSA)  
-- **Virtualization** (VMware vSphere)  
-- **Automation & IaC**  
-- **IT Support & Troubleshooting** (CompTIA A+)
+## 🏗️ AWS Projects
+
+### 1. **EC2 Auto-Scaling and Load Balancer Deployment**
+- **Objective:** Set up a highly available web application using AWS EC2 instances, Auto Scaling Groups, and an Elastic Load Balancer.
+- **Technologies:** EC2, ELB, Auto Scaling, CloudWatch
+- **Outcome:** Achieved 99.9% uptime with automated scaling during traffic spikes.
+- **Repository:** [View Project](https://github.com/username/aws-ec2-autoscaling)
+
+### 2. **S3 and CloudFront Website Hosting**
+- **Objective:** Host a static website on Amazon S3 and distribute it globally using CloudFront.
+- **Technologies:** S3, CloudFront, Route 53
+- **Outcome:** Reduced website load times by 40% and improved global reach.
+- **Repository:** [View Project](https://github.com/username/aws-s3-cloudfront)
 
 ---
 
-## 💼 Experience  
-
-### Network Administrator  
-**ComWave Enterprise Data Center**  
-*Summer 2023*  
-- Managed and optimized enterprise-level networks.  
-- Enhanced network security and resolved critical issues.
-
----
-
-## 🚀 Projects  
-
-### 1. **Enterprise Network Security Upgrade**  
-- Implemented a secure network infrastructure using Cisco solutions.  
-- Integrated monitoring tools for real-time threat detection.
-
-### 2. **Azure Migration Project**  
-- Migrated on-premises infrastructure to Microsoft Azure.  
-- Configured Azure Virtual Machines, Networking, and Storage.
-
-### 3. **AWS Infrastructure Automation**  
-- Deployed scalable infrastructure using **AWS CloudFormation** templates to automate resource provisioning.  
-- Designed multi-tier architecture with **Amazon EC2**, **Elastic Load Balancing (ELB)**, and **Auto Scaling** to ensure high availability.
-
-### 4. **Serverless Web Application**  
-- Developed a serverless web application using **AWS Lambda**, **API Gateway**, and **Amazon DynamoDB** to manage backend operations without managing servers.  
-- Integrated **AWS CloudWatch** for monitoring and logging application performance and usage metrics.
-
-### 5. **Data Backup and Recovery Solution**  
-- Implemented a backup and disaster recovery solution using **Amazon S3** and **AWS Backup** to secure critical business data.  
-- Configured lifecycle policies and versioning in S3 to optimize data storage and retention.
----
-
-## 📫 Contact  
-- **LinkedIn**: [Profile](https://www.youracclaim.com/users/latiif)  
-
----
-
+## 📬 Contact
+- **Email:** [ladiif11@hotmail.com](mailto:ladiif11@hotmail.com)  
+- **LinkedIn:** [Abdilatif](https://www.linkedin.com/in/latiif)  
+- **Credly Profile:** [View All Certifications](https://www.credly.com/users/latiif)
 ## 📁 Repositories  
 Coming soon! Stay tuned for my projects and contributions.
 <!---

@@ -84,7 +84,7 @@ Welcome to my GitHub portfolio! I am a skilled IT professional with expertise in
 
 ## 📬 Contact
 - **Email:** [ladiif11@hotmail.com](mailto:ladiif11@hotmail.com)  
-- **LinkedIn:** [Abdilatif](https://www.linkedin.com/in/latiif)  
+- **LinkedIn:** [Abdilatif](https://www.linkedin.com/in/Latif Mohamed)  
 - **Credly Profile:** [View All Certifications](https://www.credly.com/users/latiif)
 ## 📁 Repositories  
 Coming soon! Stay tuned for my projects and contributions.

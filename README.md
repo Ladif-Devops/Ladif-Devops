@@ -1,6 +1,6 @@
 # Abdilatif 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.youracclaim.com/users/abdilatif-abulahi-mohamed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.youracclaim.com/users/latiif)
 [![Email](https://img.shields.io/badge/Email-ladiif11%40hotmail.com-red)](mailto:ladiif11@hotmail.com)
 
 ---
@@ -14,7 +14,7 @@ I am a certified IT professional with expertise in network administration, cloud
 
 ### CompTIA  
 - **CompTIA A+ ce Certification**  
-  *Issued on*: January 26, 2016 | *Expired on*: January 26, 2019  
+  *Issued on*: January 26, 2016 |   
   *Description*: Certified in IT support, device configuration, data recovery, and malware management.
 
 ### Cisco  
